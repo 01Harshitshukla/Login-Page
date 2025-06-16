@@ -65,5 +65,5 @@ Distributed under the MIT License. See `LICENSE` for more information. (You migh
 
 ## Contact
 
-Harshit Shukla - (mailto:Harshitshuklfreefire@gmail.com)
+Harshit Shukla - (mailto:Harshitshukljio@gmail.com)
 Project Link: [https://github.com/01Harshitshukla/Login-Page.git](https://github.com/01Harshitshukla/Login-Page.git)
