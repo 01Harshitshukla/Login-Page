@@ -28,7 +28,7 @@ You only need a web browser (like Chrome, Firefox, Safari, Edge) to view this pr
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/login-page-project.git](https://github.com/YourUsername/login-page-project.git)
+    git clone https://github.com/01Harshitshukla/Login-Page.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -66,4 +66,4 @@ Distributed under the MIT License. See `LICENSE` for more information. (You migh
 ## Contact
 
 Harshit Shukla - (mailto:Harshitshuklfreefire@gmail.com)
-Project Link: [https://github.com/YourUsername/login-page-project](https://github.com/YourUsername/login-page-project)
+Project Link: [https://github.com/01Harshitshukla/Login-Page.git](https://github.com/01Harshitshukla/Login-Page.git)
