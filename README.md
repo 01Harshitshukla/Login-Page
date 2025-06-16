@@ -59,10 +59,6 @@ Don't forget to give the project a star! Thanks again!
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information. (You might want to add a `LICENSE` file if you plan to share this broadly)
-
 ## Contact
 
 Harshit Shukla - (mailto:Harshitshukljio@gmail.com)
